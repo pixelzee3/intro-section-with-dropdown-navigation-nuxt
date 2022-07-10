@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>Hello World</h1>
+    <Paragraph class="text-almost-black">Hello World</Paragraph>
   </div>
 </template>
