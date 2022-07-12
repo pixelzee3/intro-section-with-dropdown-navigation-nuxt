@@ -3,7 +3,7 @@ module.exports = {
   content: [],
   theme: {
     fontFamily: {
-      sans: ['Manrope', 'ui-sans-serif', 'system-ui'],
+      sans: ['Epilogue', 'sans-serif', 'ui-sans-serif', 'system-ui'],
     },
     extend: {
       colors: {
