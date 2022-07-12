@@ -1,6 +1,6 @@
 <template>
   <Header />
   <main>
-    <Hero />
+    <Hero class="pt-6" />
   </main>
 </template>
