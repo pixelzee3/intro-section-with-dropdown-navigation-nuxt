@@ -18,6 +18,7 @@
           Get your team in sync, no matter your location. Streamline processes,
           create team rituals, and watch productivity soar.
         </Paragraph>
+        <Button centered class="mt-6">Learn more</Button>
       </article>
     </Container>
   </div>
