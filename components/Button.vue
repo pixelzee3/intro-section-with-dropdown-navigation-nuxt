@@ -1,7 +1,6 @@
 <template>
-<!-- TODO: Implement hover state styles -->
   <button
-    class="text-lg bg-almost-black text-almost-white block px-7 py-3 rounded-2xl"
+    class="text-lg bg-almost-black text-almost-white block px-7 py-3 rounded-2xl hover:bg-almost-white hover:text-almost-black"
     :class="{ 'm-auto': centered }"
   >
     <slot />
