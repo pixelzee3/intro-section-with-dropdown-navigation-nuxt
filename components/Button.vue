@@ -1,6 +1,6 @@
 <template>
   <button
-    class="text-lg bg-almost-black text-almost-white block px-7 py-3 rounded-2xl hover:bg-almost-white hover:text-almost-black"
+    class="text-lg bg-almost-black text-almost-white block px-7 py-3 rounded-2xl hover:bg-almost-white hover:text-almost-black border-almost-black border-2"
     :class="{ 'm-auto': centered }"
   >
     <slot />
